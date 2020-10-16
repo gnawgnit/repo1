@@ -1,4 +1,3 @@
-# 7huai_repo1
-## test
-- hello
-- world
+# This is a test 
+## 7huai is learning git
+
